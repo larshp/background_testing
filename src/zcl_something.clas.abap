@@ -19,7 +19,7 @@ CLASS ZCL_SOMETHING IMPLEMENTATION.
 
   METHOD bar.
 
-    WRITE 'hello world'.
+    WRITE 'hello sdf world'.
 
   ENDMETHOD.
 
