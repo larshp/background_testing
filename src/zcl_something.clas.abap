@@ -24,8 +24,8 @@ CLASS ZCL_SOMETHING IMPLEMENTATION.
   ENDMETHOD.
 
 
-  method FOO.
-  endmethod.
+  METHOD foo.
+  ENDMETHOD.
 
 
   METHOD moo.
