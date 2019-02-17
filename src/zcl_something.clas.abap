@@ -17,8 +17,11 @@ ENDCLASS.
 CLASS ZCL_SOMETHING IMPLEMENTATION.
 
 
-  method BAR.
-  endmethod.
+  METHOD bar.
+
+    WRITE 'hello world'.
+
+  ENDMETHOD.
 
 
   method FOO.
